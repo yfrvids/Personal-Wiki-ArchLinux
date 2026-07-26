@@ -10,4 +10,4 @@
 
 - `sudo cp -r b- /usr/local/bin/`
 
-- Use the `b` or `b-` to increase or reduce the screen brightness
+- Use the `b` or `b-` command on terminal to increase or reduce the screen brightness
