@@ -1,0 +1,3 @@
+#!/bin/bash
+
+sudo brightnessctl -c backlight set +15%
